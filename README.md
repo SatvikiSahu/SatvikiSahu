@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatvikiSahu
 - 👀 I’m interested in PCB Designing
-- 🌱 I’m currently learning PCB Designing
-- 💞️ I’m looking to collaborate in my Core Field
+-  I’m currently learning PCB Designing
+- 💞️ I’m looking to collaborate in my Core Field(including VLSI design And embedded software)
 - 📫 How to reach me my Linkedin https://www.linkedin.com/in/satviki-sahu-6b604b196
 
 <!---
